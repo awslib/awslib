@@ -1,3 +1,20 @@
-baseURL = "http://example.org/"
+baseURL = "https://awslib.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+
+title = "AWS Library"
+theme = "hugo-theme-learn"
+uglyurls = false
+
+[params]
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  pygmentsUseClasses = true
+  pygmentsCodeFences = true
+  pygmentsCodefencesGuessSyntax = true
+  pygmentsStyle = "dracula"
+  themeVariant = "blue"
+
+
+[outputs]
+  home = ["HTML", "JSON"]
