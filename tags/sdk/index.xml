@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sdk on AWS Library</title>
-    <link>https://awslib.com/tags/sdk/</link>
+    <link>https://www.awslib.com/tags/sdk/</link>
     <description>Recent content in sdk on AWS Library</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://awslib.com/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.awslib.com/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API&#39;s</title>
-      <link>https://awslib.com/api/</link>
+      <link>https://www.awslib.com/api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awslib.com/api/</guid>
-      <description>SDK Page </description>
+      <guid>https://www.awslib.com/api/</guid>
+      <description>API Page </description>
     </item>
     
     <item>
       <title>CLI</title>
-      <link>https://awslib.com/cli/</link>
+      <link>https://www.awslib.com/cli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awslib.com/cli/</guid>
-      <description>SDK Page </description>
+      <guid>https://www.awslib.com/cli/</guid>
+      <description>CLI Page </description>
     </item>
     
     <item>
       <title>SDK&#39;s</title>
-      <link>https://awslib.com/sdk/</link>
+      <link>https://www.awslib.com/sdk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awslib.com/sdk/</guid>
+      <guid>https://www.awslib.com/sdk/</guid>
       <description>SDK Page </description>
     </item>
     
     <item>
       <title>Tools</title>
-      <link>https://awslib.com/tools/</link>
+      <link>https://www.awslib.com/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://awslib.com/tools/</guid>
-      <description>SDK Page </description>
+      <guid>https://www.awslib.com/tools/</guid>
+      <description>Tools Page </description>
     </item>
     
   </channel>

@@ -1,55 +1,55 @@
 [
 {
-	"uri": "https://awslib.com/",
+	"uri": "https://www.awslib.com/",
 	"title": "Aws Library",
 	"tags": [],
 	"description": "",
 	"content": " We are not affiliated with AWS or Amazon, the website is just meant to aggregate data otherwise freely available on the Amazon Web Services websites: AWS\n This website is meant to provide information about the AWS Libraries and their respective versions.\n"
 },
 {
-	"uri": "https://awslib.com/api/",
+	"uri": "https://www.awslib.com/api/",
 	"title": "API&#39;s",
 	"tags": ["sdk"],
 	"description": "",
-	"content": "SDK Page "
+	"content": "API Page "
 },
 {
-	"uri": "https://awslib.com/cli/",
+	"uri": "https://www.awslib.com/cli/",
 	"title": "CLI",
 	"tags": ["sdk"],
 	"description": "",
-	"content": "SDK Page "
+	"content": "CLI Page "
 },
 {
-	"uri": "https://awslib.com/sdk/",
+	"uri": "https://www.awslib.com/sdk/",
 	"title": "SDK&#39;s",
 	"tags": ["sdk"],
 	"description": "",
 	"content": "SDK Page "
 },
 {
-	"uri": "https://awslib.com/tools/",
+	"uri": "https://www.awslib.com/tools/",
 	"title": "Tools",
 	"tags": ["sdk"],
 	"description": "",
-	"content": "SDK Page "
+	"content": "Tools Page "
 },
 {
-	"uri": "https://awslib.com/categories/",
+	"uri": "https://www.awslib.com/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://awslib.com/tags/sdk/",
+	"uri": "https://www.awslib.com/tags/sdk/",
 	"title": "sdk",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://awslib.com/tags/",
+	"uri": "https://www.awslib.com/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
