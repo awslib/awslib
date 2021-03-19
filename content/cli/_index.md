@@ -8,4 +8,4 @@ tags:
 - sdk
 ---
 
-# SDK Page
+# CLI Page
